@@ -1,0 +1,24 @@
+{
+  "name": "discordjs-v13-template",
+  "version": "1.0.0",
+  "description": "A simple template for discord.js v13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "discord.js",
+    "javascript",
+    "js",
+    "discord",
+    "bot",
+    "discord-bot"
+  ],
+  "author": "Nathaniel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "node": "^16.13.2"
+  }
+}
